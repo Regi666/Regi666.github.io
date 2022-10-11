@@ -1,8 +1,3 @@
 !!de.saltmann.dividends.config.YmlConf
 name: "Hans"
 number: 666
-details:
-  - type: "country"
-    number: 123456789
-  - type: "western"
-    number: 456786868
