@@ -1,0 +1,178 @@
+[
+  {
+    "desc": "Armin MacBook",
+    "mac": "38:f9:d3:43:27:2d",
+    "dnsName": "armins-macbook-air.fritz.box",
+    "vendor": "Apple, Inc.",
+    "firstSeen": "2023-01-23 12:08:43",
+    "lastSeen": "2024-11-15 11:30:01",
+    "firstScanner": "raspi4",
+    "lastScanner": "raspi4",
+    "hitcount": "450"
+  },
+  {
+    "desc": "ING MacBook",
+    "mac": "c8:89:f3:bc:3d:0a",
+    "dnsName": "apm3lf1q4v3gtv0.fritz.box",
+    "vendor": "Apple, Inc.",
+    "firstSeen": "2023-01-23 12:08:43",
+    "lastSeen": "2024-11-08 13:30:40",
+    "firstScanner": "raspi4",
+    "lastScanner": "raspi4",
+    "hitcount": "72"
+  },
+  {
+    "desc": "echo dot",
+    "mac": "40:b4:cd:bd:34:b1",
+    "dnsName": "linux.fritz.box",
+    "vendor": "Amazon Technologies Inc.",
+    "firstSeen": "2023-01-24 21:54:50",
+    "lastSeen": "2024-11-14 21:45:01",
+    "firstScanner": "raspi4",
+    "lastScanner": "raspi4",
+    "hitcount": "66"
+  },
+  {
+    "desc": "stereo-m",
+    "mac": "60:f1:89:e8:2a:68",
+    "dnsName": "192.168.0.6",
+    "vendor": "Murata Manufacturing Co., Ltd.",
+    "firstSeen": "2023-01-28 16:34:36",
+    "lastSeen": "2024-10-31 17:34:24",
+    "firstScanner": "MBP",
+    "lastScanner": "MBP",
+    "hitcount": "64"
+  },
+  {
+    "desc": "Fernseher Nbg",
+    "mac": "38:8c:50:40:62:35",
+    "dnsName": "192.168.0.8",
+    "vendor": "LG Electronics",
+    "firstSeen": "2023-01-29 16:10:02",
+    "lastSeen": "2024-10-31 13:54:44",
+    "firstScanner": "MBP",
+    "lastScanner": "MBP",
+    "hitcount": "10"
+  },
+  {
+    "desc": "Sebastian Macbook",
+    "mac": "f4:d4:88:78:1a:6b",
+    "dnsName": "192.168.0.2",
+    "vendor": "(Unknown)",
+    "firstSeen": "2023-01-30 11:43:45",
+    "lastSeen": "2024-11-08 13:30:40",
+    "firstScanner": "raspi4",
+    "lastScanner": "raspi4",
+    "hitcount": "25"
+  },
+  {
+    "desc": "Router Teublitz",
+    "mac": "50:e6:36:c7:f3:d4",
+    "dnsName": "192.168.178.1",
+    "vendor": "(Unknown)",
+    "firstSeen": "2024-10-31 11:24:31",
+    "lastSeen": "2024-11-15 11:30:01",
+    "firstScanner": "raspi4",
+    "lastScanner": "raspi4",
+    "hitcount": "443"
+  },
+  {
+    "desc": "Android?",
+    "mac": "44:42:01:40:2a:82",
+    "dnsName": "192.168.178.28",
+    "vendor": "(Unknown)",
+    "firstSeen": "2024-10-31 11:24:31",
+    "lastSeen": "2024-11-15 11:30:01",
+    "firstScanner": "raspi4",
+    "lastScanner": "raspi4",
+    "hitcount": "387"
+  },
+  {
+    "desc": "Armin iPhone",
+    "mac": "26:73:2d:d1:4a:ef",
+    "dnsName": "192.168.178.21",
+    "vendor": "(Unknown: locally administered)",
+    "firstSeen": "2024-10-31 11:37:18",
+    "lastSeen": "2024-11-15 09:45:01",
+    "firstScanner": "raspi4",
+    "lastScanner": "raspi4",
+    "hitcount": "124"
+  },
+  {
+    "desc": "Router Nbg",
+    "mac": "02:10:18:cd:4d:64",
+    "dnsName": "192.168.0.1",
+    "vendor": "(Unknown: locally administered)",
+    "firstSeen": "2024-10-31 13:27:17",
+    "lastSeen": "2024-10-31 17:34:24",
+    "firstScanner": "MBP",
+    "lastScanner": "MBP",
+    "hitcount": "45"
+  },
+  {
+    "desc": "Sebastians iPone 13 mini",
+    "mac": "5e:6b:bf:66:b5:2e",
+    "dnsName": "192.168.0.88",
+    "vendor": "(Unknown: locally administered)",
+    "firstSeen": "2024-10-31 13:27:17",
+    "lastSeen": "2024-10-31 17:34:05",
+    "firstScanner": "MBP",
+    "lastScanner": "MBP",
+    "hitcount": "13"
+  },
+  {
+    "desc": "Desktop Nbg",
+    "mac": "04:7c:16:e5:35:18",
+    "dnsName": "192.168.0.7",
+    "vendor": "Micro-Star INTL CO., LTD.",
+    "firstSeen": "2024-10-31 13:39:03",
+    "lastSeen": "2024-10-31 14:32:30",
+    "firstScanner": "MBP",
+    "lastScanner": "MBP",
+    "hitcount": "19"
+  },
+  {
+    "desc": "???",
+    "mac": "0e:a7:77:56:fd:4f",
+    "dnsName": "192.168.178.26",
+    "vendor": "(Unknown: locally administered)",
+    "firstSeen": "2024-10-31 17:11:47",
+    "lastSeen": "2024-11-15 09:30:02",
+    "firstScanner": "raspi4",
+    "lastScanner": "raspi4",
+    "hitcount": "103"
+  },
+  {
+    "desc": "iPad",
+    "mac": "92:46:19:05:23:20",
+    "dnsName": "192.168.178.22",
+    "vendor": "(Unknown: locally administered)",
+    "firstSeen": "2024-11-01 19:33:16",
+    "lastSeen": "2024-11-15 09:30:02",
+    "firstScanner": "raspi4",
+    "lastScanner": "raspi4",
+    "hitcount": "250"
+  },
+  {
+    "desc": "iPhone",
+    "mac": "fe:57:21:58:4d:d8",
+    "dnsName": "192.168.178.25",
+    "vendor": "(Unknown: locally administered)",
+    "firstSeen": "2024-11-05 16:31:57",
+    "lastSeen": "2024-11-08 13:29:13",
+    "firstScanner": "raspi4",
+    "lastScanner": "raspi4",
+    "hitcount": "10"
+  },
+  {
+    "desc": "???",
+    "mac": "c4:65:16:dc:97:f6",
+    "dnsName": "192.168.178.23",
+    "vendor": "Hewlett Packard",
+    "firstSeen": "2024-11-13 10:15:01",
+    "lastSeen": "2024-11-13 11:00:01",
+    "firstScanner": "raspi4",
+    "lastScanner": "raspi4",
+    "hitcount": "4"
+  }
+]
