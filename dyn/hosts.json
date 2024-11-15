@@ -5,10 +5,10 @@
     "dnsName": "armins-macbook-air.fritz.box",
     "vendor": "Apple, Inc.",
     "firstSeen": "2023-01-23 12:08:43",
-    "lastSeen": "2024-11-15 11:30:01",
+    "lastSeen": "2024-11-15 12:30:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "450"
+    "hitcount": "454"
   },
   {
     "desc": "ING MacBook",
@@ -71,10 +71,10 @@
     "dnsName": "192.168.178.1",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2024-11-15 11:30:01",
+    "lastSeen": "2024-11-15 12:30:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "443"
+    "hitcount": "447"
   },
   {
     "desc": "Android?",
@@ -82,10 +82,10 @@
     "dnsName": "192.168.178.28",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2024-11-15 11:30:01",
+    "lastSeen": "2024-11-15 12:30:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "387"
+    "hitcount": "389"
   },
   {
     "desc": "Armin iPhone",
@@ -132,7 +132,7 @@
     "hitcount": "19"
   },
   {
-    "desc": "???",
+    "desc": "Mama iPhone",
     "mac": "0e:a7:77:56:fd:4f",
     "dnsName": "192.168.178.26",
     "vendor": "(Unknown: locally administered)",
@@ -148,10 +148,10 @@
     "dnsName": "192.168.178.22",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-01 19:33:16",
-    "lastSeen": "2024-11-15 09:30:02",
+    "lastSeen": "2024-11-15 12:15:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "250"
+    "hitcount": "251"
   },
   {
     "desc": "iPhone",
@@ -165,7 +165,7 @@
     "hitcount": "10"
   },
   {
-    "desc": "???",
+    "desc": "Drucker Teublitz",
     "mac": "c4:65:16:dc:97:f6",
     "dnsName": "192.168.178.23",
     "vendor": "Hewlett Packard",
