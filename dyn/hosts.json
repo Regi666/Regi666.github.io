@@ -5,10 +5,10 @@
     "dnsName": "armins-macbook-air.fritz.box",
     "vendor": "Apple, Inc.",
     "firstSeen": "2023-01-23 12:08:43",
-    "lastSeen": "2024-11-17 09:00:01",
+    "lastSeen": "2024-11-17 09:15:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "601"
+    "hitcount": "602"
   },
   {
     "desc": "ING MacBook",
@@ -16,10 +16,10 @@
     "dnsName": "apm3lf1q4v3gtv0.fritz.box",
     "vendor": "Apple, Inc.",
     "firstSeen": "2023-01-23 12:08:43",
-    "lastSeen": "2024-11-17 08:30:01",
+    "lastSeen": "2024-11-17 09:30:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "89"
+    "hitcount": "90"
   },
   {
     "desc": "echo dot",
@@ -27,10 +27,10 @@
     "dnsName": "linux.fritz.box",
     "vendor": "Amazon Technologies Inc.",
     "firstSeen": "2023-01-24 21:54:50",
-    "lastSeen": "2024-11-17 08:45:01",
+    "lastSeen": "2024-11-17 10:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "92"
+    "hitcount": "94"
   },
   {
     "desc": "stereo-m",
@@ -60,10 +60,10 @@
     "dnsName": "192.168.0.2",
     "vendor": "(Unknown)",
     "firstSeen": "2023-01-30 11:43:45",
-    "lastSeen": "2024-11-17 04:45:01",
+    "lastSeen": "2024-11-17 10:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "60"
+    "hitcount": "62"
   },
   {
     "desc": "Router Teublitz",
@@ -71,10 +71,10 @@
     "dnsName": "192.168.178.1",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2024-11-17 09:00:01",
+    "lastSeen": "2024-11-17 10:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "625"
+    "hitcount": "629"
   },
   {
     "desc": "Android?",
@@ -82,10 +82,10 @@
     "dnsName": "192.168.178.28",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2024-11-17 08:30:01",
+    "lastSeen": "2024-11-17 10:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "514"
+    "hitcount": "516"
   },
   {
     "desc": "Armin iPhone",
@@ -93,10 +93,10 @@
     "dnsName": "192.168.178.21",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-10-31 11:37:18",
-    "lastSeen": "2024-11-17 09:00:01",
+    "lastSeen": "2024-11-17 09:30:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "167"
+    "hitcount": "168"
   },
   {
     "desc": "Router Nbg",
@@ -148,10 +148,10 @@
     "dnsName": "192.168.178.22",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-01 19:33:16",
-    "lastSeen": "2024-11-17 09:00:01",
+    "lastSeen": "2024-11-17 10:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "324"
+    "hitcount": "328"
   },
   {
     "desc": "iPhone",
