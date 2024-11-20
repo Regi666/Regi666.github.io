@@ -5,10 +5,10 @@
     "dnsName": "armins-macbook-air.fritz.box",
     "vendor": "Apple, Inc.",
     "firstSeen": "2023-01-23 12:08:43",
-    "lastSeen": "2024-11-20 02:00:01",
+    "lastSeen": "2024-11-20 03:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "774"
+    "hitcount": "778"
   },
   {
     "desc": "ING MacBook",
@@ -16,10 +16,10 @@
     "dnsName": "apm3lf1q4v3gtv0.fritz.box",
     "vendor": "Apple, Inc.",
     "firstSeen": "2023-01-23 12:08:43",
-    "lastSeen": "2024-11-18 17:30:01",
+    "lastSeen": "2024-11-20 02:45:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "147"
+    "hitcount": "148"
   },
   {
     "desc": "echo dot",
@@ -71,10 +71,10 @@
     "dnsName": "192.168.178.1",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2024-11-20 02:00:01",
+    "lastSeen": "2024-11-20 03:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "886"
+    "hitcount": "890"
   },
   {
     "desc": "Android?",
@@ -82,10 +82,10 @@
     "dnsName": "192.168.178.28",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2024-11-20 02:00:01",
+    "lastSeen": "2024-11-20 03:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "684"
+    "hitcount": "687"
   },
   {
     "desc": "Armin iPhone",
@@ -148,10 +148,10 @@
     "dnsName": "192.168.178.22",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-01 19:33:16",
-    "lastSeen": "2024-11-20 01:15:01",
+    "lastSeen": "2024-11-20 02:15:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "406"
+    "hitcount": "407"
   },
   {
     "desc": "iPhone",
