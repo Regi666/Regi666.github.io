@@ -5,10 +5,10 @@
     "dnsName": "armins-macbook-air.fritz.box",
     "vendor": "Apple, Inc.",
     "firstSeen": "2023-01-23 12:08:43",
-    "lastSeen": "2024-12-19 18:00:01",
+    "lastSeen": "2024-12-19 19:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "3534"
+    "hitcount": "3538"
   },
   {
     "desc": "ING MacBook",
@@ -71,10 +71,10 @@
     "dnsName": "192.168.178.1",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2024-12-19 18:00:01",
+    "lastSeen": "2024-12-19 19:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "3736"
+    "hitcount": "3740"
   },
   {
     "desc": "Android?",
@@ -82,10 +82,10 @@
     "dnsName": "192.168.178.28",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2024-12-19 18:00:01",
+    "lastSeen": "2024-12-19 18:45:02",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "2406"
+    "hitcount": "2408"
   },
   {
     "desc": "Armin iPhone",
@@ -93,10 +93,10 @@
     "dnsName": "192.168.178.21",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-10-31 11:37:18",
-    "lastSeen": "2024-12-19 17:30:01",
+    "lastSeen": "2024-12-19 18:45:02",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "754"
+    "hitcount": "755"
   },
   {
     "desc": "Router Nbg",
@@ -192,10 +192,10 @@
     "dnsName": "192.168.178.34",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-18 17:45:01",
-    "lastSeen": "2024-12-19 18:00:01",
+    "lastSeen": "2024-12-19 19:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "830"
+    "hitcount": "831"
   },
   {
     "desc": "???",
@@ -203,9 +203,9 @@
     "dnsName": "192.168.178.35",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-12-09 17:30:01",
-    "lastSeen": "2024-12-19 17:30:01",
+    "lastSeen": "2024-12-19 18:15:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "221"
+    "hitcount": "222"
   }
 ]
