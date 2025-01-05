@@ -5,10 +5,10 @@
     "dnsName": "armins-macbook-air.fritz.box",
     "vendor": "Apple, Inc.",
     "firstSeen": "2023-01-23 12:08:43",
-    "lastSeen": "2025-01-05 01:00:01",
+    "lastSeen": "2025-01-05 02:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "5007"
+    "hitcount": "5011"
   },
   {
     "desc": "ING MacBook",
@@ -71,10 +71,10 @@
     "dnsName": "192.168.178.1",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2025-01-05 01:00:01",
+    "lastSeen": "2025-01-05 02:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "5302"
+    "hitcount": "5306"
   },
   {
     "desc": "Android?",
@@ -82,10 +82,10 @@
     "dnsName": "192.168.178.28",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2025-01-05 01:00:01",
+    "lastSeen": "2025-01-05 02:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "3436"
+    "hitcount": "3440"
   },
   {
     "desc": "Armin iPhone",
@@ -93,10 +93,10 @@
     "dnsName": "192.168.178.21",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-10-31 11:37:18",
-    "lastSeen": "2025-01-05 00:15:01",
+    "lastSeen": "2025-01-05 01:15:02",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "1080"
+    "hitcount": "1081"
   },
   {
     "desc": "Router Nbg",
@@ -148,10 +148,10 @@
     "dnsName": "192.168.178.22",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-01 19:33:16",
-    "lastSeen": "2025-01-04 23:45:01",
+    "lastSeen": "2025-01-05 02:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "1990"
+    "hitcount": "1991"
   },
   {
     "desc": "iPhone",
@@ -192,10 +192,10 @@
     "dnsName": "192.168.178.34",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-18 17:45:01",
-    "lastSeen": "2025-01-05 00:45:01",
+    "lastSeen": "2025-01-05 01:30:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "1101"
+    "hitcount": "1102"
   },
   {
     "desc": "???",
@@ -214,10 +214,10 @@
     "dnsName": "192.168.178.36",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-12-23 17:00:01",
-    "lastSeen": "2025-01-05 00:15:01",
+    "lastSeen": "2025-01-05 01:30:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "310"
+    "hitcount": "312"
   },
   {
     "desc": "echo",
