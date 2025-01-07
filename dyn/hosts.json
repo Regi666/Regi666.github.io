@@ -5,10 +5,10 @@
     "dnsName": "armins-macbook-air.fritz.box",
     "vendor": "Apple, Inc.",
     "firstSeen": "2023-01-23 12:08:43",
-    "lastSeen": "2025-01-07 17:00:01",
+    "lastSeen": "2025-01-07 19:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "5263"
+    "hitcount": "5271"
   },
   {
     "desc": "ING MacBook",
@@ -27,10 +27,10 @@
     "dnsName": "linux.fritz.box",
     "vendor": "Amazon Technologies Inc.",
     "firstSeen": "2023-01-24 21:54:50",
-    "lastSeen": "2025-01-07 17:00:01",
+    "lastSeen": "2025-01-07 19:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "1369"
+    "hitcount": "1373"
   },
   {
     "desc": "stereo-m",
@@ -71,10 +71,10 @@
     "dnsName": "192.168.178.1",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2025-01-07 17:00:01",
+    "lastSeen": "2025-01-07 19:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "5561"
+    "hitcount": "5569"
   },
   {
     "desc": "Android?",
@@ -82,10 +82,10 @@
     "dnsName": "192.168.178.28",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2025-01-07 17:00:01",
+    "lastSeen": "2025-01-07 19:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "3592"
+    "hitcount": "3597"
   },
   {
     "desc": "Armin iPhone",
@@ -93,10 +93,10 @@
     "dnsName": "192.168.178.21",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-10-31 11:37:18",
-    "lastSeen": "2025-01-07 15:15:01",
+    "lastSeen": "2025-01-07 19:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "1123"
+    "hitcount": "1126"
   },
   {
     "desc": "Router Nbg",
@@ -148,10 +148,10 @@
     "dnsName": "192.168.178.22",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-01 19:33:16",
-    "lastSeen": "2025-01-07 17:00:01",
+    "lastSeen": "2025-01-07 18:30:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "2087"
+    "hitcount": "2089"
   },
   {
     "desc": "iPhone",
@@ -170,10 +170,10 @@
     "dnsName": "192.168.178.23",
     "vendor": "Hewlett Packard",
     "firstSeen": "2024-11-13 10:15:01",
-    "lastSeen": "2025-01-07 17:00:01",
+    "lastSeen": "2025-01-07 18:30:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "304"
+    "hitcount": "310"
   },
   {
     "desc": "???",
@@ -225,10 +225,10 @@
     "dnsName": "192.168.178.33",
     "vendor": "Amazon Technologies Inc.",
     "firstSeen": "2025-01-04 16:30:01",
-    "lastSeen": "2025-01-07 17:00:01",
+    "lastSeen": "2025-01-07 19:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "198"
+    "hitcount": "206"
   },
   {
     "desc": "???",
