@@ -5,10 +5,10 @@
     "dnsName": "armins-macbook-air.fritz.box",
     "vendor": "Apple, Inc.",
     "firstSeen": "2023-01-23 12:08:43",
-    "lastSeen": "2025-01-12 23:00:01",
+    "lastSeen": "2025-01-13 00:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "5765"
+    "hitcount": "5769"
   },
   {
     "desc": "ING MacBook",
@@ -71,10 +71,10 @@
     "dnsName": "192.168.178.1",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2025-01-12 23:00:01",
+    "lastSeen": "2025-01-13 00:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "6065"
+    "hitcount": "6069"
   },
   {
     "desc": "Android?",
@@ -148,10 +148,10 @@
     "dnsName": "192.168.178.22",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-01 19:33:16",
-    "lastSeen": "2025-01-12 23:00:01",
+    "lastSeen": "2025-01-12 23:30:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "2389"
+    "hitcount": "2391"
   },
   {
     "desc": "iPhone",
@@ -192,10 +192,10 @@
     "dnsName": "192.168.178.34",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-18 17:45:01",
-    "lastSeen": "2025-01-12 23:00:01",
+    "lastSeen": "2025-01-13 00:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "1179"
+    "hitcount": "1181"
   },
   {
     "desc": "???",
@@ -225,10 +225,10 @@
     "dnsName": "192.168.178.33",
     "vendor": "Amazon Technologies Inc.",
     "firstSeen": "2025-01-04 16:30:01",
-    "lastSeen": "2025-01-12 23:00:01",
+    "lastSeen": "2025-01-13 00:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "691"
+    "hitcount": "695"
   },
   {
     "desc": "???",
@@ -236,10 +236,10 @@
     "dnsName": "192.168.178.37",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2025-01-07 12:30:01",
-    "lastSeen": "2025-01-12 23:00:01",
+    "lastSeen": "2025-01-13 00:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "161"
+    "hitcount": "165"
   },
   {
     "desc": "???",
