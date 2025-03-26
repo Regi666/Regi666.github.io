@@ -5,10 +5,10 @@
     "dnsName": "armins-macbook-air.fritz.box",
     "vendor": "Apple, Inc.",
     "firstSeen": "2023-01-23 12:08:43",
-    "lastSeen": "2025-03-26 00:00:01",
+    "lastSeen": "2025-03-27 00:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "12301"
+    "hitcount": "12397"
   },
   {
     "desc": "ING MacBook",
@@ -27,10 +27,10 @@
     "dnsName": "linux.fritz.box",
     "vendor": "Amazon Technologies Inc.",
     "firstSeen": "2023-01-24 21:54:50",
-    "lastSeen": "2025-03-25 23:30:01",
+    "lastSeen": "2025-03-26 22:15:02",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "2672"
+    "hitcount": "2676"
   },
   {
     "desc": "stereo-m",
@@ -71,10 +71,10 @@
     "dnsName": "192.168.178.1",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2025-03-26 00:00:01",
+    "lastSeen": "2025-03-27 00:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "12993"
+    "hitcount": "13089"
   },
   {
     "desc": "Android?",
@@ -82,10 +82,10 @@
     "dnsName": "192.168.178.28",
     "vendor": "(Unknown)",
     "firstSeen": "2024-10-31 11:24:31",
-    "lastSeen": "2025-03-26 00:00:01",
+    "lastSeen": "2025-03-27 00:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "8789"
+    "hitcount": "8858"
   },
   {
     "desc": "Armin iPhone",
@@ -93,10 +93,10 @@
     "dnsName": "192.168.178.21",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-10-31 11:37:18",
-    "lastSeen": "2025-03-26 00:00:01",
+    "lastSeen": "2025-03-26 22:45:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "2383"
+    "hitcount": "2409"
   },
   {
     "desc": "Router Nbg",
@@ -148,10 +148,10 @@
     "dnsName": "192.168.178.22",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-01 19:33:16",
-    "lastSeen": "2025-03-26 00:00:01",
+    "lastSeen": "2025-03-27 00:00:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "5610"
+    "hitcount": "5659"
   },
   {
     "desc": "iPhone",
@@ -159,10 +159,10 @@
     "dnsName": "192.168.178.25",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-05 16:31:57",
-    "lastSeen": "2025-03-25 22:30:01",
+    "lastSeen": "2025-03-26 16:15:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "1783"
+    "hitcount": "1800"
   },
   {
     "desc": "Drucker Teublitz",
@@ -181,10 +181,10 @@
     "dnsName": "192.168.178.32",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-16 14:30:01",
-    "lastSeen": "2025-03-25 23:45:01",
+    "lastSeen": "2025-03-26 14:30:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "3654"
+    "hitcount": "3664"
   },
   {
     "desc": "???",
@@ -192,10 +192,10 @@
     "dnsName": "192.168.178.34",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2024-11-18 17:45:01",
-    "lastSeen": "2025-03-25 23:15:01",
+    "lastSeen": "2025-03-26 17:15:01",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "2813"
+    "hitcount": "2858"
   },
   {
     "desc": "???",
@@ -291,9 +291,9 @@
     "dnsName": "192.168.178.42",
     "vendor": "(Unknown: locally administered)",
     "firstSeen": "2025-03-19 20:30:01",
-    "lastSeen": "2025-03-26 00:00:01",
+    "lastSeen": "2025-03-26 21:30:02",
     "firstScanner": "raspi4",
     "lastScanner": "raspi4",
-    "hitcount": "119"
+    "hitcount": "152"
   }
 ]
